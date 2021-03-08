@@ -1,0 +1,78 @@
+* Git grundläggande : git initiering, git staging, commit
+ git init :- initiering av git i projektet. 
+
+ git add  // för att kunna lägga till filer och mapper i staging (grön färg)
+ git commit -m "msg" // sparar i git 
+
+ Hur kan vi se alla historik: 
+ git log // för att kunna se alla historik
+ git checkout shanummer // för att kunna gå till olika commit 
+
+ .gitignore // ignorera filer, mapper 
+ git restore --staged .gitignore // för att kunna unstage en file
+
+ 
+
+
+branch: 
+
+skapar och ändrar branch: 
+   
+   ** git checkout -b main  // skapar main branch och ändrar till detta
+   ** git branch -M main   // default branch i github
+
+
+
+
+
+
+
+ // Hur jobbar man i remote repo/working directory
+
+   github, gitbucket , azure devops, 
+
+Remote repo settings: 
+** 
+   git remote add origin  adressen/https://.... 
+
+  origin : default remote working directory/projektmapp/repo 
+
+
+  checklist : 
+       * remote 
+       * access  
+       
+    collaboration:  repo -> settings -> manage access 
+
+
+
+*** lagra ändraingar , hämta ändraingar:
+
+push , git push origin main
+pull 
+
+
+
+   
+
+
+
+ // sha nummer 
+
+// CD :- change directory 
+
+// ls :- list directory
+
+// CLI :- Command line interface  : powershell , bash , cmd , zsh
+
+
+
+
+
+.git 
+
+* github: clone, pull , push , origin , remote 
+
+
+
+
