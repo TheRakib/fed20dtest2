@@ -45,12 +45,34 @@ Remote repo settings:
     collaboration:  repo -> settings -> manage access 
 
 
+** ändra remote repo??: 
+ta bort remote repo :
+git remote remove origin
+lägg till nya repo:
+git remote add origin adressen
+
+
+
+
+** 
+
+
+
+
+
 
 *** lagra ändraingar , hämta ändraingar:
 
-push , git push origin main
-pull 
 
+push , git push origin main
+pull :
+git pull origin main
+
+fatal: refusing to merge unrelated histories ? 
+git pull origin main --allow-unrelated-histories
+
+VIM: text redigerare 
+exit: :qa!
 
 
    
