@@ -23,6 +23,12 @@ Kommando :
 
  git checkout -b branchnamn // skapa en branch och byta till branchen
 
+
+för att kunna merge med nånm branch måste vi först byta till branchen och 
+skriver vi : git merge den-branchen-vi-vill-merga
+
+
+
 * Git conflikt 
 
 * Gruppinlämning 
