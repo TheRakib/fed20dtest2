@@ -28,9 +28,15 @@ Kommando :
  för att kunna merge med nånm branch måste vi först byta till branchen och 
  skriver vi : git merge den-branchen-vi-vill-merga
 
+ // git branch -D hotfix
+
+ 
 
 remote branch: -
 
-* Git conflikt 
+* Git conflikt: 
+
+//kl. 11.00 
 
 * Gruppinlämning 
+
