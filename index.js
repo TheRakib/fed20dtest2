@@ -1,4 +1,4 @@
-console.log("hello ")
+console.log("hello world")
 var x= "some data"
 console.log(x);
-console.log(" hello igen ")
+console.log("hej")
