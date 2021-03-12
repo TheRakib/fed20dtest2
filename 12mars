@@ -15,6 +15,7 @@ Dagensagenda:
 
 Kommando : 
 
+
  git branch dev // för att kunna skapa branch 
 
  git branch // alla branch 
@@ -24,10 +25,11 @@ Kommando :
  git checkout -b branchnamn // skapa en branch och byta till branchen
 
 
-för att kunna merge med nånm branch måste vi först byta till branchen och 
-skriver vi : git merge den-branchen-vi-vill-merga
+ för att kunna merge med nånm branch måste vi först byta till branchen och 
+ skriver vi : git merge den-branchen-vi-vill-merga
 
 
+remote branch: -
 
 * Git conflikt 
 
