@@ -1,4 +1,13 @@
+
+Dagensagenda :
 * Git grundläggande : git initiering, git staging, commit
+* Github: clone, pull , push , origin , remote , access
+
+
+======================
+
+
+
  git init :- initiering av git i projektet. 
 
  git add  // för att kunna lägga till filer och mapper i staging (grön färg)
@@ -65,6 +74,10 @@ git remote add origin adressen
 
 
 push , git push origin main
+error: you have to do 
+git pull ... 
+
+
 pull :
 git pull origin main
 
@@ -74,9 +87,7 @@ git pull origin main --allow-unrelated-histories
 VIM: text redigerare 
 exit: :qa!
 
-
-   
-
+git add . och git commit -m "git commit"
 
 
  // sha nummer 
@@ -88,13 +99,15 @@ exit: :qa!
 // CLI :- Command line interface  : powershell , bash , cmd , zsh
 
 
-
-
-
 .git 
 
-* github: clone, pull , push , origin , remote 
 
 
 
 
+
+** Data structure och algorithm med js. 
+
+** Git och Github
+
+13:00

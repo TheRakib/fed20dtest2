@@ -1,0 +1,28 @@
+Dagensagenda:
+
+* Frågastund:
+  
+
+* Git branch :- 
+
+
+ -feature_branch : 
+ -release branch : - main -> CI-> användare 
+ -hotfix : 
+
+ ** Återkommer kl. 10.00 
+
+
+Kommando : 
+
+ git branch dev // för att kunna skapa branch 
+
+ git branch // alla branch 
+
+ git checkout branchnamn // ändra till branch 
+
+ git checkout -b branchnamn // skapa en branch och byta till branchen
+
+* Git conflikt 
+
+* Gruppinlämning 
