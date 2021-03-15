@@ -17,8 +17,13 @@
 // Jag kan fortsätta jobba vidare efter confilkt lösning mellan commit och stash 
 
 * git rebase:- 
-   
+    
+    
+    - 10.20 :- påbörjar handledning. 
 
+
+**feature_branch + hotfix 
+               --> staging ---> clean, bugfria --> main/master (CI) -- production/deployment
 
 
 
