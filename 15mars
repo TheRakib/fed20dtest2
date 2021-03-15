@@ -6,14 +6,12 @@
    - git stash list
    - git stash apply  sha-nummer // gå tillbaka till stash 
    - git stash drop sha-nummer 
-   
 
    - git stash clear // tas bort alla stash
 
 
-// lite till  
 
-
+// jag kan fortsätta jobba vidare efter confilkt lösning mellan commit och stash 
 
 * Git rebase 
 
