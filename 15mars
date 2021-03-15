@@ -1,10 +1,19 @@
 * Frågestund
 
 
-* Git stash 
+* Git stash  : om ni vill lägga till arbetet i sidan utan att göra commit 
    - git stash 
    - git stash list
    - git stash apply  sha-nummer // gå tillbaka till stash 
+   - git stash drop sha-nummer 
+   
+
+   - git stash clear // tas bort alla stash
+
+
+// lite till  
+
+
 
 * Git rebase 
 
