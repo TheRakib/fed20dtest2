@@ -1,0 +1,26 @@
+{
+  "name": "testnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "html": "live-server index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRakib/fed20dtest2.git"
+  },
+  "keywords": [],
+  "author": "rakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRakib/fed20dtest2/issues"
+  },
+  "homepage": "https://github.com/TheRakib/fed20dtest2#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "live-server": "^1.2.1"
+  }
+}
