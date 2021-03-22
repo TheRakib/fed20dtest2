@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/TheRakib/fed20dtest2#readme",
   "dependencies": {
-    "jquery": "^3.6.0",
-    "live-server": "^1.2.1"
+    "jquery": "^3.6.0"
   }
 }

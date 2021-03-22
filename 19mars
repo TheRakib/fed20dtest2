@@ -38,13 +38,17 @@ scripts:-
 
 kommandon:- 
 
-     - npm init  //initera
+     - npm init  //initera    npm init -y
      - npm i paket  //installera
-     - npm run scriptsnamn   // köra ett scripts
+     - npm run scriptsnamn   // köra ett scripts   // start scripts : npm start
 
 
+     - npm i -g globalprojektnamn  
+                                    // npx i globalprojektnamn  
+        npm i -g live-server   //
 
 
+npx:- node package executor   // den undviker ladda ner/installera paket i globalt miljö
 
 
 * Npm :- node package management:- 
@@ -56,18 +60,14 @@ kommandon:-
    // för att kunna installera ett paket : npm install paketnamnet / npm i paketnamnet
 
 
-// 
-    
+// återkommer:  kl. 11.00.
+
+* Webb arch:-
+
 *** CDN :- 
 
-package.json 
 
-10.10
 
-entry point: 
-
-* Webb arch.
-
-* handledning: Gruppinlämning .
+* handledning: Gruppinlämning.
 
 ============
